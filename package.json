@@ -2,6 +2,7 @@
   "name": "chat-client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://anhnt6596.github.io/chatbot-client",
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
